@@ -1,1 +1,1 @@
-CppProject
+Super tiny c++ project
