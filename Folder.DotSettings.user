@@ -1,0 +1,72 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=15fb9983_002D77b2_002D41fa_002D8b31_002Dca54f8a2fc5e/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="The update_rows command can be successfully used to change cell values in an existing table. #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;Catch::DB94C55F-6B9A-4AAE-80D7-29FD8153E6B5::::The update_rows command can be successfully used to change cell values in an existing table.&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=181303ed_002Deb0c_002D4451_002D8b4a_002D9fbd1b67fcfd/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="The database class can create some sample tables and the structure is correctly reflected in the created table objects." xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;Catch::DB94C55F-6B9A-4AAE-80D7-29FD8153E6B5::::The database class can create some sample tables and the structure is correctly reflected in the created table objects.&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;Catch::DB94C55F-6B9A-4AAE-80D7-29FD8153E6B5::::Rows in a table can be correctly updated using a row filter.&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;Catch::DB94C55F-6B9A-4AAE-80D7-29FD8153E6B5::::Attempting to create a table with a name that is already used by an existing table results in an exception and preserves the previous table.&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;Catch::DB94C55F-6B9A-4AAE-80D7-29FD8153E6B5::::The test database is correctly filled by the append_row calls in the test fixture code.&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;Catch::DB94C55F-6B9A-4AAE-80D7-29FD8153E6B5::::A table can be querried unfiltered using database&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;Catch::DB94C55F-6B9A-4AAE-80D7-29FD8153E6B5::::A table can be querried with a single filter using database&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;Catch::DB94C55F-6B9A-4AAE-80D7-29FD8153E6B5::::A table can be querried with multiple filters using database&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;Catch::DB94C55F-6B9A-4AAE-80D7-29FD8153E6B5::::A table can be querried to obtain a histogram of order items by order number (unfiltered histogram query).&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;Catch::DB94C55F-6B9A-4AAE-80D7-29FD8153E6B5::::A table can be querried to obtain a histogram of order items by article number (unfiltered histogram query).&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;Catch::DB94C55F-6B9A-4AAE-80D7-29FD8153E6B5::::A table can be querried to obtain a histogram of order quantities for a specific article number (filtered histogram query).&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;Catch::DB94C55F-6B9A-4AAE-80D7-29FD8153E6B5::::A table can be correctly deleted by name.&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;Catch::DB94C55F-6B9A-4AAE-80D7-29FD8153E6B5::::A row can be correctly erased from a table by index.&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;Catch::DB94C55F-6B9A-4AAE-80D7-29FD8153E6B5::::Rows in a table can be correctly erased using a row filter.&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;Catch::DB94C55F-6B9A-4AAE-80D7-29FD8153E6B5::::Attempting to use a non-existent table throws an exception.&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;Catch::DB94C55F-6B9A-4AAE-80D7-29FD8153E6B5::::Attempting to use a non-existent column name in a row filter throws an exception.&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;Catch::DB94C55F-6B9A-4AAE-80D7-29FD8153E6B5::::Attempting to use a non-existent column name in a get_column_index_by_name throws an exception.&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;Catch::DB94C55F-6B9A-4AAE-80D7-29FD8153E6B5::::Attempting to use an invalid column index throws an exception.&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;Catch::DB94C55F-6B9A-4AAE-80D7-29FD8153E6B5::::Attempting to use an invalid row index in erase_row throws an exception.&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;Catch::DB94C55F-6B9A-4AAE-80D7-29FD8153E6B5::::Attempting to set a cell to a value of the incorrect type throws an exception.&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;Catch::DB94C55F-6B9A-4AAE-80D7-29FD8153E6B5::::Attempting to read a cell value using the incorrect type throws an exception.&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=29e03218_002Daad0_002D4ae2_002D9388_002De9abfeba49fb/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="The command parser correctly parses a command line containing a command with a single key-value-list argument." xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;Catch::DB94C55F-6B9A-4AAE-80D7-29FD8153E6B5::::The command parser correctly parses a command line containing a command with a single key-value-list argument.&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;Catch::DB94C55F-6B9A-4AAE-80D7-29FD8153E6B5::::The command parser correctly parses a command line containing a command with a single list argument.&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=37ba45f6_002Db5ac_002D411c_002Dafb6_002D209ca60a28b1/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="The create_table command can be successfully used to create a table. #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;Catch::DB94C55F-6B9A-4AAE-80D7-29FD8153E6B5::::The command parser correctly parses a command line containing a command with a single string argument.&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;Catch::DB94C55F-6B9A-4AAE-80D7-29FD8153E6B5::::The command parser correctly parses a command line containing a command with a single key-value-list argument.&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=3ef59465_002D5eb8_002D4e37_002Db4b4_002D6583557ee2c1/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="The create_table command can be successfully used to create a table." xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;Catch::DB94C55F-6B9A-4AAE-80D7-29FD8153E6B5::::The create_table command can be successfully used to create a table.&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=82c88291_002Dba82_002D4e4a_002Db77a_002D9dd70790ebd0/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="The create_table command can be successfully used to create a table. #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;Catch::DB94C55F-6B9A-4AAE-80D7-29FD8153E6B5::::The create_table command can be successfully used to create a table.&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=aea47977_002D2488_002D474f_002Db58d_002Df9f593b8732e/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="The update_rows command can be successfully used to change cell values in an existing table." xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;Catch::DB94C55F-6B9A-4AAE-80D7-29FD8153E6B5::::The update_rows command can be successfully used to change cell values in an existing table.&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;Catch::DB94C55F-6B9A-4AAE-80D7-29FD8153E6B5::::The erase_rows command can be successfully used to remove rows matching a filter from a table.&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;Catch::DB94C55F-6B9A-4AAE-80D7-29FD8153E6B5::::The erase_row command can be successfully used to remove a rows from a table by index.&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;Catch::DB94C55F-6B9A-4AAE-80D7-29FD8153E6B5::::The update_cell command can be successfully used to update a single value in a row.&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;Catch::DB94C55F-6B9A-4AAE-80D7-29FD8153E6B5::::The query_table command can be successfully used to display all rows in a table.&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=b7105ad8_002D2f66_002D47a0_002D9567_002D6263a8024961/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="The query_table command can be successfully used to display all rows in a table." xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;Catch::DB94C55F-6B9A-4AAE-80D7-29FD8153E6B5::::The query_table command can be successfully used to display all rows in a table.&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=ccc6775b_002Da418_002D4fee_002D8bd9_002Dbdf54843fe24/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="The query_table command can be successfully used to display a subset of the rows in a table, specified by a row filter." xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;Catch::DB94C55F-6B9A-4AAE-80D7-29FD8153E6B5::::The query_table command can be successfully used to display a subset of the rows in a table, specified by a row filter.&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;Catch::DB94C55F-6B9A-4AAE-80D7-29FD8153E6B5::::The query_column_histogram command can be successfully used to generate a histogram of the values of a column in a subset of the filtered row of a table.&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
